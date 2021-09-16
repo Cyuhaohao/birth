@@ -4,7 +4,7 @@
   "description": "Birthday greetings..",
   "main": " ",
   "scripts": {
-    "server-node": "http-server -p 8084"
+    "server-node": "http-server -p 8080"
   },
   "repository": {
     "type": "git",
